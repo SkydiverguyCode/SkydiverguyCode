@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SkydiverguyCode
-- 👀 I’m interested in ...
+- 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me josemesp@ucm.es
+- 📫 How to reach me: josemesp@ucm.es
 
 <!---
 SkydiverguyCode/SkydiverguyCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
